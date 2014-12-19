@@ -1,3 +1,5 @@
+As android has moved on, this code has become a bit obsolete. It doesn't work on newer devices and I don't care much to fix it. I'd recommend checking out the [Shoutcast-Android](https://github.com/cr5315/shoutcast-android) project as an alternative for newer devices - it actually uses the android media service to stream the content directly as opposed to downloading a file and trying to get the media service to continue reading new blocks that are stuffed into the file.
+
 White Label Shoutcast
 =====================
 
